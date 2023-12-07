@@ -181,6 +181,9 @@ footer {
   height: 300px;
   margin-top: 105px;
 }
+#hero img:hover{
+scale:1.1;
+}
 #hero h1,
 #hero p {
   font-size: small;
@@ -229,6 +232,9 @@ footer {
 }
 .box2 button {
   margin-top: 35px;
+}
+section img:hover{
+  scale:1.1;
 }
 /*Header y nav responsive*/
 @media screen and (max-width: 630px) {
